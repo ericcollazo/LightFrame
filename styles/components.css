@@ -1,0 +1,19 @@
+.container{
+    padding: 16px;
+}
+div.jumbotron{
+    margin: auto;
+    width: auto;
+    max-width: 250px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+div.header{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 3em;
+}
+div.copy{
+    padding: 10px;
+}
